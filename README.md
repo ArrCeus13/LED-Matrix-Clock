@@ -48,5 +48,5 @@ Catatan : Ubah konfigurasi untuk menyesuaikan sensor yang tersedia
 
 ## Video Demo
 <p align="center">
-  <img src="https://github.com/ArrCeus13/LED-Matrix-Clock/assets/101047794/833da340-3838-4bc8-a410-efcce8a3c3e5">
+  [<img src="/additional/image2.jpg">](https://github.com/ArrCeus13/LED-Matrix-Clock/assets/101047794/833da340-3838-4bc8-a410-efcce8a3c3e5)
 </p>
