@@ -41,9 +41,9 @@ Catatan : Ubah konfigurasi untuk menyesuaikan sensor yang tersedia
 
 ## Foto Rangkaian
 <p align="center">
-  <img src="/additional/image2.png">
-  <img src="/additional/image1.png">
-  <img src="/additional/image4.png">
+  <img src="/additional/image2.jpg">
+  <img src="/additional/image1.jpg">
+  <img src="/additional/image4.jpg">
 </p>
 
 ## Video Demo
