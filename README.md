@@ -8,12 +8,41 @@ Untuk tampilan dot matrix, pada tiap detik 10 dan 40 akan menampilkan tanggal, b
 ## Rancangan Perangkat Keras
 Rancangan sistem menggunakan Microcontroller Atmega328p pada board Arduino NANO. Perangkat keras penunjang lainnya antara lain:
 * LED Dot Matrix 8x32
+<p align="center">
+  <img src="/additional/Matrix8x32.png">
+</p>
 * Modul sensor cahaya (LDR)
+<p align="center">
+  <img src="/additional/ldr.png">
+</p>
 * Sensor suhu (LM35)
+<p align="center">
+  <img src="/additional/lm35.png">
+</p>
 * RTC DS3231
+<p align="center">
+  <img src="/additional/DS3231.png">
+</p>
 * Keyboard PS/2
+<p align="center">
+  <img src="/additional/ps2adapter.png">
+</p>
 * Secure Board (untuk menempatkan perangkat dalam posisi aman)
+<p align="center">
+  <img src="/additional/pcb.png">
+</p>
 * Kabel jumper
+<p align="center">
+  <img src="/additional/kabel.png">
+</p>
+* Solder
+<p align="center">
+  <img src="/additional/solder.png">
+</p>
+* Timah Solder
+<p align="center">
+  <img src="/additional/timah.png">
+</p>
 
 ## Listing Program
 Listing program untuk menjalankan LED Matrix Clock ini bisa dilihat pada [link ini](ClockMatrix.ino)
